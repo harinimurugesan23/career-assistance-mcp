@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "resume-filesystem": {
+      "command": "node",
+      "args": ["mcp/filesystem/server.js"],
+      "env": {
+        "RESUME_WATCH_DIR": "/path/to/your/Desktop"
+      }
+    },
+    "github-review": {
+      "command": "node",
+      "args": ["mcp/github/server.js"],
+      "env": {
+        "GITHUB_TOKEN": "your_github_personal_access_token"
+      }
+    }
+  }
+}
