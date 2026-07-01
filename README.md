@@ -4,7 +4,7 @@ An AI-powered resume analysis platform with genuine MCP (Model Context Protocol)
 not just "I used MCP" name-dropping. Two real MCP servers expose tools an AI client can call
 directly: one reads resumes off your local filesystem, the other cross-checks resume claims
 against actual GitHub activity.
-
+Live url : https://career-assistant-wo6y.onrender.com
 ## What it does
 
 | Module | Feature |
