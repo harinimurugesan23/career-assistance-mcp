@@ -1,4 +1,4 @@
-# ResumeGPT – AI Career Assistant
+# AI Resume Intelligence Platform – MERN Stack with MCP
 
 An AI-powered resume analysis platform with genuine MCP (Model Context Protocol) integration —
 not just "I used MCP" name-dropping. Two real MCP servers expose tools an AI client can call
